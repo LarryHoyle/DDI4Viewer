@@ -11,3 +11,6 @@ This application:
   <li>then calls networkx_viewer to allow browsing the model.</li>
 </ul>
 Nodes and edges have assigned attributes that can be seen in the browser as they are selected.
+
+# DDI4toYAML
+This version of the program generates a YAML template for each view in the Platform Independent DDI-Views model.
